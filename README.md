@@ -32,14 +32,19 @@ questao(7)
 - questao(10)
 - processos independentes como pessoas lendo livros em silêncio numa biblioteca. Cada uma está focada no seu próprio conteúdo.  
 Já processos cooperativos são como pessoas jogando futebol: precisam se comunicar, passar a bola, e trabalhar em equipe para alcançar o objetivo.
+
 questao (11)
 Um processo zumbi em sistemas UNIX/Linux é como um fantasma no sistema: ele já morreu, mas ainda aparece na tabela de processos
+
 questao(12)
 processo espera até que a operação termine.  
 É como quando você liga para alguém e fica esperando ele atender. Você só continua depois que ele responde.
+
 questao(13)
 Um processo é um programa em execução. Ele tem seu próprio espaço de memória, arquivos abertos, variáveis e recursos. É como uma casa separada: cada processo vive em seu próprio ambiente.
+
 questao(14)
 É um sistema onde vários processos ficam na memória ao mesmo tempo, e o sistema operacional alterna entre eles para usar melhor a CPU. Isso permite que, enquanto um processo está esperando (por exemplo, por leitura de disco), outro possa usar o processador.
+
 questao(15)
 A comunicação via memória compartilhada é uma técnica bastante utilizada em sistemas operacionais e programação concorrente para permitir que múltiplos processos ou threads troquem informações de forma eficiente
